@@ -1,0 +1,11 @@
+{
+    "name": "Type Speed",
+    "version": "1.0.0",
+    "description": "Improve your type speed",
+    "manifest_version": 3,
+    "author": "Epoundor TANDA",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Type Speed"
+    }
+}
