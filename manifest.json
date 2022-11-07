@@ -4,8 +4,11 @@
     "description": "Improve your type speed",
     "manifest_version": 3,
     "author": "Epoundor TANDA",
-    "action":{
+    "action": {
         "default_popup": "index.html",
         "default_title": "Type Speed"
+    },
+    "icons": { 
+        "128": "./favicon.png" 
     }
 }
